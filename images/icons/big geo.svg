@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="35px" viewBox="0 0 23 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="4.13981544%" y1="0%" x2="97.7532769%" y2="97.65625%" id="linearGradient-1">
+            <stop stop-color="#F3AF69" offset="0%"></stop>
+            <stop stop-color="#FA615C" offset="92.4006417%"></stop>
+            <stop stop-color="#FA5B5B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Инвестиции-1" transform="translate(-109.000000, -433.000000)" fill="url(#linearGradient-1)">
+            <path d="M120.5,468 C120.5,468 109,451.847883 109,445.142026 C109,438.43617 114.148725,433 120.5,433 C126.851275,433 132,438.43617 132,445.142026 C132,451.847883 120.5,468 120.5,468 Z M120.5,449.219512 C123.087556,449.219512 125.185185,447.117434 125.185185,444.52439 C125.185185,441.931346 123.087556,439.829268 120.5,439.829268 C117.912444,439.829268 115.814815,441.931346 115.814815,444.52439 C115.814815,447.117434 117.912444,449.219512 120.5,449.219512 Z" id="Combined-Shape-Copy-5"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Инвестиции-1" transform="translate(-511.000000, -197.000000)" fill-rule="nonzero" fill="#E46C45">
+            <g id="tick" transform="translate(511.000000, 197.000000)">
+                <path d="M14.8310296,0.170306978 C14.6057651,-0.0567689927 14.2404609,-0.0567689927 14.0151378,0.170306978 L4.66324575,9.59620395 L0.984862246,5.88869412 C0.759597694,5.66158862 0.394293532,5.66158862 0.168970387,5.88869412 C-0.0563234622,6.11577009 -0.0563234622,6.48393435 0.168970387,6.71103985 L4.25534377,10.8297373 C4.48054973,11.0567247 4.84597108,11.0567838 5.07123563,10.8297373 L14.8310296,0.992652714 C15.0563235,0.765547214 15.0563235,0.397382949 14.8310296,0.170306978 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
